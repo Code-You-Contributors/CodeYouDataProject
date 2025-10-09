@@ -1,5 +1,6 @@
 appnope==0.1.4
 asttokens==3.0.0
+colorama==0.4.6
 comm==0.2.3
 debugpy==1.8.16
 decorator==5.2.1
@@ -27,6 +28,7 @@ pure_eval==0.2.3
 Pygments==2.19.2
 python-dateutil==2.9.0.post0
 pytz==2025.2
+pywin32==311
 pyzmq==27.0.1
 six==1.17.0
 stack-data==0.6.3
